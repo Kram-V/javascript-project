@@ -3,7 +3,6 @@ import Header from "./components/Header";
 import Main from "./components/Main";
 import Loader from "./components/Loader";
 import Error from "./components/Error";
-import axios from "axios";
 import StartScreen from "./components/StartScreen";
 import Question from "./components/Question";
 import Button from "./components/Button";
